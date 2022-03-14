@@ -1,0 +1,28 @@
+MindMapUltra Privacy Policy (2022.3.14)
+Published on March 14, 2022
+Welcome to MindMapUltra (hereinafter referred to as "the software")! This software respects and protects the personal privacy of all users. In order to provide you with more accurate and personalized services, this software will collect and use your personal information in accordance with the provisions of this Privacy Policy.
+
+I. Scope of application
+This Privacy Protection Policy applies to users who use this software, and other units and individuals are not within the protection scope of this Privacy Protection Policy. At the same time, this software may update this privacy policy from time to time.
+
+II. Information use
+1. This software may access your device folders and files (hereinafter referred to as "documents") to open and store your mind maps when you need them.
+2. The software will record the file path you recently accessed to help you access it more conveniently and quickly next time.
+3. When you use the "Share" function to share the mind map, the software will collect the information of the current mind map for the sharing you need.
+4. When you use this software, this software may collect some events and record them in the Microsoft Partner Center. These events will not contain your personal information and will only be used to help developers fix crashes and better improve the quality of this product.
+
+III. Information disclosure
+In the following cases, this software will disclose all or part of your information in accordance with the law:
+A) With your consent, it will be disclosed to a third party;
+B) To provide you with the requested products and services, and it must be shared with you
+C) According to the relevant provisions of the law, or the requirements of administrative or judicial institutions, disclose to third parties or administrative or judicial institutions; D
+) If you violate relevant laws, regulations, rules or related service agreements, We need to disclose to third parties;
+E) other disclosures deemed appropriate by this software, regulations or policies in accordance with the law.
+
+4. Information storage and exchange
+1. This software will not upload your personal information to this software server. Your modifications to documents and a list of recently accessed document paths are stored locally.
+2. When you use the "Share" function, the software will transmit the mind map to a third party according to your choice.
+3. Events logged to Microsoft Partner Center are stored on Microsoft servers.
+
+5. Information Security
+The software promises to try its best to ensure that your information is not lost and leaked, but you should understand that there is no 100% security on the information network. When using the "Share" function of this software, you will inevitably share your information with others. Please properly protect your information and only provide it to others when necessary. If you find that your personal information is leaked, please contact the software customer service immediately so that the software can take corresponding measures.
